@@ -1,4 +1,4 @@
-# Linux Systems Programming Practice
+ # Linux Systems Programming Practice
 
 A collection of Linux and POSIX concurrency practice programs written in C. The repository currently focuses on using **POSIX threads**, **semaphores**, **mutexes**, and shared memory patterns to understand operating-system concepts.
 
